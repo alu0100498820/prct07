@@ -1,6 +1,6 @@
 #File: fraccion_spec
 
-require "lib/fraccion.rb"
+require "fraccion.rb"
 
 describe Fraccion do
   before :each do
